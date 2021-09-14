@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>Cell.qml</file>
+        <file>Timer.mjs</file>
+        <file>Tetris.mjs</file>
+        <file>Board.qml</file>
+    </qresource>
+</RCC>
