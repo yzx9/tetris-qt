@@ -1,7 +1,5 @@
-.pragma library
-
 function Timer() {
-    return Qt.createQmlObject("import QtQuick 2.0; Timer {}", app);
+    return Qt.createQmlObject("import QtQuick 2.0; Timer {}", Qt.application);
 }
 
 export function setTimeout(cb, ms) {

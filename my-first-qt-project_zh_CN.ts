@@ -4,7 +4,7 @@
 <context>
     <name>main</name>
     <message>
-        <location filename="main.qml" line="9"/>
+        <location filename="main.qml" line="11"/>
         <source>My First Qt Project -- Celeste</source>
         <oldsource>Hello, My First Qt Project -- Celeste</oldsource>
         <translation type="unfinished"></translation>

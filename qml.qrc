@@ -5,5 +5,7 @@
         <file>Timer.mjs</file>
         <file>Tetris.mjs</file>
         <file>Board.qml</file>
+        <file>Block.qml</file>
+        <file>Blocks.mjs</file>
     </qresource>
 </RCC>
