@@ -3,9 +3,10 @@
         <file>main.qml</file>
         <file>Cell.qml</file>
         <file>Timer.mjs</file>
-        <file>Tetris.mjs</file>
         <file>Board.qml</file>
         <file>Block.qml</file>
         <file>Blocks.mjs</file>
+        <file>Tetris.qml</file>
+        <file>Scoreboard.qml</file>
     </qresource>
 </RCC>
